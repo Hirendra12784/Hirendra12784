@@ -32,6 +32,4 @@ Happy to meet new people and always excited for challenging opportunities!!
 
 ## Connect with me:
 
-
-<img src="https://user-images.githubusercontent.com/105099270/168012246-d847bce8-52f7-433b-be98-6a9eb1304374.png
-">
+<img src="https://user-images.githubusercontent.com/105099270/168014695-67eaf6e6-9e84-4256-a9fd-0c31cea2ccdd.png"/>
