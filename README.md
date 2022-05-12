@@ -32,5 +32,5 @@ Happy to meet new people and always excited for challenging opportunities!!
 
 ## Connect with me:
 
- <a href="https://www.linkedin.com/in/divyesh-panchal-b9b48b180/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/105099270/168032750-f16fa63c-c8cf-4c7a-9a98-2980b3666947.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/hirendra-singh-gehlot-43a49b208/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/105099270/168032750-f16fa63c-c8cf-4c7a-9a98-2980b3666947.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
