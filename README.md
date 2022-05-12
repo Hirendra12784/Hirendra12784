@@ -33,5 +33,5 @@ Happy to meet new people and always excited for challenging opportunities!!
 ## Connect with me:
 
 
-<a href="mailto:hirendrasinghudr@gmail.com"> <img src="https://user-images.githubusercontent.com/105099270/168012246-d847bce8-52f7-433b-be98-6a9eb1304374.png
-"></a>
+<img src="https://user-images.githubusercontent.com/105099270/168012246-d847bce8-52f7-433b-be98-6a9eb1304374.png
+">
