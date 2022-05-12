@@ -32,4 +32,5 @@ Happy to meet new people and always excited for challenging opportunities!!
 
 ## Connect with me:
 
-<a href =" mailto:hirendrasinghudr@gmail.com"><img src="https://user-images.githubusercontent.com/105099270/168014695-67eaf6e6-9e84-4256-a9fd-0c31cea2ccdd.png" width="30" height="30"/></a>
+ <a href="https://www.linkedin.com/in/divyesh-panchal-b9b48b180/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+
