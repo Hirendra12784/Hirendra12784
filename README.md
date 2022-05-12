@@ -33,5 +33,5 @@ Happy to meet new people and always excited for challenging opportunities!!
 ## Connect with me:
 
 > To get in touch, please reach out via:
-> [Gmail](hirendrasinghudr@gmail.com) 
+> [Gmail] hirendrasinghudr@gmail.com 
 > [LinkedIn](https://www.linkedin.com/in/hirendra-singh-gehlot-43a49b208/) 
